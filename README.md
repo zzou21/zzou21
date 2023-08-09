@@ -2,7 +2,7 @@
 - I’m interested in digital humanities, data analysis, and Artificial Intelligence.
 - I’m currently learning Python, R, data processing, and how to do digital humanities.
 - I'm open to collaborations on anything related to digital humanities/history, coding projects related to history/humanities, and quantitative analysis.
-- Currently, I'm planning on reading "Democracy in America" by Alexis de Tocqueville.
+- Currently, I'm reading "Democracy in America" by Alexis de Tocqueville.
 - You can reach me at jerryzouzhihui@gmail.com.
 
 <!---
